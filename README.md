@@ -8,5 +8,5 @@ In this game, the player controls a dinosaur that jumps over oncoming obstacles,
 4) Breadboard and jumper wires
 # Wiring:
  VCC → 5V, GND → GND, SDA → A4, SCL → A5
- Button → Digital pin 2 & GND
+       Button → Digital pin 2 & GND
 
